@@ -14,7 +14,7 @@
 *	Created a Latent Dirichlet Allocation model to visualize and analyze distinct NFT topics.
 *	Supported claim of value in NFTs that provide utility using custom KPIs.
 
-<img src="https://github.com/safigueroa/Projects/blob/main/images/nft1.PNG" width="400" />
+<img src="images/nft1.PNG" width="400" />
 
 
 ## [Zoom Stock Time Series Analysis](https://github.com/safigueroa/Projects/tree/main/Time_Series)
@@ -22,7 +22,7 @@
 *	Built time series forecasting models (Facebook Prophet and Holt-Winters) to predict future stock prices.
 *	Achieved an accurate model (22% MAPE over a 120-day future forecast) which plays a critical role in reflecting overall stock market trends and seasonality.
 
-<img src="https://github.com/safigueroa/Projects/blob/main/images/time_series.png" width="400" />
+<img src="images/time_series.png" width="400" />
 
 
 ## [Data Mining for Mental Health Awareness](https://github.com/safigueroa/Projects/tree/main/Data_Mining)
@@ -30,4 +30,4 @@
 *	Visualized data using seaborn (boxplots and heatmaps) and built a multivariate regression model.
 *	Underlined the drastic consequences of poor mental health in the world with visualizations and analytics, using insights to combat this issue with better informed decisions.
 
-<img src="https://github.com/safigueroa/Projects/blob/main/images/sui_per_continent1.PNG" width="400" />
+<img src="images/sui_per_continent1.PNG" width="400" />
