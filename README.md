@@ -6,7 +6,7 @@
 *	Utilized Big Data tools such as machine learning and ensemble modeling (Gradient Boosted Trees) run on an AWS EMR Cluster in Pyspark.
 *	Identified potential issues in general anxiety, life satisfaction, and social anxiety levels in increased gaming.
 
-<img src="https://github.com/safigueroa/Projects/blob/main/images/gad7.png" width="400" />
+<img src="images/gad7.png" width="400" />
 
 
 ## [Finding Value in NFTs](https://github.com/safigueroa/Projects/tree/main/NFT_Project)
