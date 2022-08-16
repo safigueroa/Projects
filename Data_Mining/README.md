@@ -1,10 +1,3 @@
-Sergio Figueroa
-
-Dr. Batarseh
-
-CIS 4321-02
-
-April 20, 2020
 
 **Data Mining for Mental Health Awareness**
 
