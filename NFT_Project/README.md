@@ -48,7 +48,7 @@ In order to develop the model, the normalized corpus was taken, and a count vect
 
 The use of a latent Dirichlet allocation (LDA) model was implemented to best analyze our dataset (Sakar, 2019). This generative probabilistic model of a corpus results in latent topics, where each topic is formed by a distribution of words and their respective weights. In total, three distinct topics were formed after applying our normalized corpus to the aforementioned model. Using these three set clusters, a weighted average of floor prices for each category was used as a performance metric defined as follows:
 
-![](images/weighted_avg.png)
+![](/images/weighted_avg.png)
 
 The weighted floor price uses the average floor price of all nfts in that cluster and weight of volume, or the 90 day transaction of the nft. Since the nft market is so volatile, volume is a great metric of measuring the popularity of it (Kazczynski and Kominers, 2021). Due to the nature of this model no topic is strictly defined, however, using our best judgment and information provided from NFTs in each cluster, we were able to produce possible labels for each topic. These included: Collectibles as Topic 1, Utility as Topic 2, and Gaming as Topic 3. The results show a much higher weighted floor price (0.43 ETH) for Utility compared to Collectibles (0.13 ETH) and Gaming (0.29 ETH). It's also worth noting that the weighted floor price and volume for gaming NFTs is quite high.
 
